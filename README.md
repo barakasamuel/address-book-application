@@ -32,7 +32,7 @@ Open your terminal and run:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/barakasamuel/address-book-application.git
 (Replace your-username and your-repository-name with your actual GitHub info.)
 
 2. Navigate into the project folder
@@ -75,3 +75,4 @@ Make UI mobile responsive.
 
 Add task deadlines or priorities.
 
+https://barakasamuel.github.io/address-book-application/

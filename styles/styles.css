@@ -1,0 +1,55 @@
+.section {
+    border: 2px solid gold;
+    border-width: 10px;
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    color: gold;
+    width: 500px;
+    border-style: double;
+    box-sizing: content-box;
+    border-top-style: double;
+    border-left-style: double;
+    border-style: double;
+
+    
+
+}
+h1 {
+    text-align: center;
+    padding: 30px;
+    border: 5px solid gold;
+    color: gold;
+    background-color: black;
+    border-style: dotted;
+}
+ button {
+    border: 5px solid gold;
+    color: white;
+    background-color: black;
+
+ }
+ h2 {
+    text-align: center;
+    padding: 30px;
+    border: 5px solid gold;
+    color: gold;
+    background-color: black;
+    border-style: dotted;
+ }
+ tr {
+    border: 2px solid gold;
+    border-width: 10px;
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    color: gold;
+    width: 500px;
+    border-style: double;
+    box-sizing: content-box;
+    border-top-style: double;
+    border-left-style: dashed;
+    border-style: double;
+ }
